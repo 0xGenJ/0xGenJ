@@ -12,7 +12,7 @@
   <a href="https://instagram.com/0xgenj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://warpcast.com/genj" target="_blank">
+  <a href="https://warpcast.com/0xgenj" target="_blank">
     <img src="https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://hey.xyz/u/0xgenj" target="_blank">
@@ -29,8 +29,8 @@
 ### 🚀 About Me
 - 🔭 Currently exploring **blockchain & Web3 development**
 - 🌱 Learning new things in **smart contracts / crypto**
-- 💬 Ask me about **crypto, Web3, atau tech in general**
-- ⚡ Fun fact: nama akun saya dimulai dengan `0x` karena saya suka semua hal blockchain
+- 💬 Ask me about **crypto, Web3, or tech in general**
+- ⚡ Fun fact: my username starts with `0x` because I love everything EVM & blockchain
 
 ---
 
