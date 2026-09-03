@@ -7,16 +7,19 @@
 
 <p align="center">
   <a href="https://twitter.com/0xgenj" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="40" height="40" alt="Twitter" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/0xgenj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://warpcast.com/genj" target="_blank">
-    <img src="https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/farcaster/855DCD" width="40" height="40" alt="Farcaster" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://hey.xyz/u/0xgenj" target="_blank">
-    <img src="https://img.shields.io/badge/Lens-00501E?style=for-the-badge&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/lens/00501E" width="40" height="40" alt="Lens" />
   </a>
 </p>
 
