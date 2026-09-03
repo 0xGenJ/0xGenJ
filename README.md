@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/0xgenj" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="40" height="40" alt="Twitter" />
+    <img src="https://cdn.simpleicons.org/x/000000" width="40" height="40" alt="X (Twitter)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/0xgenj" target="_blank">
@@ -33,7 +33,7 @@
 - 🔭 Currently exploring **blockchain & Web3 development**
 - 🌱 Learning new things in **smart contracts / crypto**
 - 💬 Ask me about **crypto, Web3, or tech in general**
-- ⚡ Fun fact: my username starts with `0x` because I love everything EVM
+- ⚡ Fun fact: my username starts with `0x` because I love everything EVM & blockchain
 
 ---
 
