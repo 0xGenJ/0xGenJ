@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/0xgenj" target="_blank">
-    <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" alt="X (Twitter)" />
+    <img src="https://img.shields.io/static/v1?label=&message=&color=white&logo=x&logoColor=black&style=flat-square" width="40" height="40" alt="X (Twitter)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/0xgenj" target="_blank">
