@@ -12,7 +12,7 @@
   <a href="https://instagram.com/0xgenj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://warpcast.com/0xgenj" target="_blank">
+  <a href="https://warpcast.com/genj" target="_blank">
     <img src="https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://hey.xyz/u/0xgenj" target="_blank">
