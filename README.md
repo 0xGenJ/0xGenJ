@@ -1,16 +1,60 @@
 ## Hi there 👋
+<h1 align="center">Hi there 👋, I'm MISA</h1>
+<h3 align="center">Web3 Builder | Crypto Enthusiast | 0xGenJ</h3>
 
-<!--
-**0xGenJ/0xGenJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Exploring+Web3+%26+Blockchain;Building+cool+things+on-chain;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/0xgenj" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/0xgenj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/0xgenj" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/0xgenj" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xGenJ&label=Profile%20Views&color=f72585&style=for-the-badge" alt="Visitor count" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently exploring **blockchain & Web3 development**
+- 🌱 Learning new things in **smart contracts / crypto**
+- 💬 Ask me about **crypto, Web3, atau tech in general**
+- ⚡ Fun fact: nama akun saya dimulai dengan `0x` karena saya suka semua hal blockchain
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,react,nodejs,python,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xGenJ&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xGenJ&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGenJ&layout=compact&theme=radical&hide_border=true" width="60%" />
+</p>
+
+---
+
+<p align="center">✨ Thanks for stopping by! ✨</p>
