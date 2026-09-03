@@ -13,7 +13,7 @@
   <a href="https://instagram.com/0xgenj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/0xgenj" target="_blank">
+  <a href="https://discord.com/users/0x628" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://t.me/0xgenj" target="_blank">
