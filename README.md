@@ -19,7 +19,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://hey.xyz/u/0xgenj" target="_blank">
-    <img src="assets/lens.svg" width="40" height="40" alt="Lens" />
+    <img src="assets/lens.png" width="40" height="40" alt="Lens" />
   </a>
 </p>
 
