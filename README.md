@@ -12,14 +12,11 @@
   <a href="https://instagram.com/0xgenj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/0xgenj" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://warpcast.com/0xgenj" target="_blank">
+    <img src="https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://t.me/0xgenj" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://hey.xyz/u/0xgenj" target="_blank">
+    <img src="https://img.shields.io/badge/Lens-00501E?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
