@@ -33,7 +33,7 @@
 - 🔭 Currently exploring **blockchain & Web3 development**
 - 🌱 Learning new things in **smart contracts / crypto**
 - 💬 Ask me about **crypto, Web3, or tech in general**
-- ⚡ Fun fact: my username starts with `0x` because I love everything EVM & blockchain
+- ⚡ Fun fact: my username starts with `0x` because I love everything EVM
 
 ---
 
