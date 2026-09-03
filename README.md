@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://twitter.com/0xgenj" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=&color=white&logo=x&logoColor=black&style=flat-square" width="40" height="40" alt="X (Twitter)" />
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cmVjdCB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHJ4PSI4IiBmaWxsPSJibGFjayIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDgsOCkiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTguOTAxIDEuMTUzaDMuNjhsLTguMDQgOS4xOUwyNCAyMi44NDZoLTcuNDA2bC01LjgtNy41ODQtNi42MzggNy41ODRILjQ3NGw4LjYtOS44M0wwIDEuMTU0aDcuNTk0bDUuMjQzIDYuOTMyWk0xNy42MSAyMC42NDRoMi4wMzlMNi40ODYgMy4yNEg0LjI5OFoiLz48L2c+PC9zdmc+Cg==" width="40" height="40" alt="X (Twitter)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/0xgenj" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://warpcast.com/genj" target="_blank">
+  <a href="https://warpcast.com/0xgenj" target="_blank">
     <img src="https://cdn.simpleicons.org/farcaster/855DCD" width="40" height="40" alt="Farcaster" />
   </a>
   &nbsp;&nbsp;
@@ -33,7 +33,7 @@
 - 🔭 Currently exploring **blockchain & Web3 development**
 - 🌱 Learning new things in **smart contracts / crypto**
 - 💬 Ask me about **crypto, Web3, or tech in general**
-- ⚡ Fun fact: my username starts with `0x` because I love everything EVM & blockchain
+- ⚡ Fun fact: my username starts with `0x` because I love everything EVM
 
 ---
 
