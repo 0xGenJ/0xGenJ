@@ -14,7 +14,7 @@
     <img src="assets/instagram.svg" width="40" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://warpcast.com/0xgenj" target="_blank">
+  <a href="https://warpcast.com/genj" target="_blank">
     <img src="assets/farcaster.svg" width="40" height="40" alt="Farcaster" />
   </a>
   &nbsp;&nbsp;
@@ -33,7 +33,7 @@
 - 🔭 Currently exploring **blockchain & Web3 development**
 - 🌱 Learning new things in **smart contracts / crypto**
 - 💬 Ask me about **crypto, Web3, or tech in general**
-- ⚡ Fun fact: my username starts with `0x` because I love everything EVM
+- ⚡ Fun fact: my username starts with `0x` because I love everything EVM & blockchain
 
 ---
 
