@@ -134,3 +134,21 @@
   .social-row a:hover{transform:translateY(-3px); color:#fff;}
   .social-row svg{width:26px; height:26px;}
   .visitor{max-width:88%; height:auto; margin-top:6px;}
+
+.social-row .icon-mask{
+  width:26px;
+  height:26px;
+  display:block;
+  background-color: var(--pink2);
+  -webkit-mask-image: url('../../assets/lens.svg');
+  mask-image: url('../../assets/lens.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+}
+.social-row a:hover .icon-mask{
+  background-color:#fff;
+}
