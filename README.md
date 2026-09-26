@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm MISA</h1>
-<h3 align="center">Web3 Builder | Crypto Enthusiast | 0xGenJ</h3>
+<h3 align="center">Web3 Blockchain Explore | Crypto Enthusiast | 0xGenJ</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Exploring+Web3+%26+Blockchain;Building+cool+things+on-chain;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -12,6 +12,9 @@
   &nbsp;&nbsp;
   <a href="https://instagram.com/0xgenj" target="_blank">
     <img src="assets/instagram.svg" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="https://www.binance.com/en/square/profile/0x1310" target="_blank">
+    <img src="assets/binance.png" width="40" height="40" alt="BinanceSquare" />
   </a>
   &nbsp;&nbsp;
   <a href="https://warpcast.com/genj" target="_blank">
@@ -29,31 +32,4 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently exploring **blockchain & Web3 development**
-- 🌱 Learning new things in **smart contracts / crypto**
-- 💬 Ask me about **crypto, Web3, or tech in general**
-- ⚡ Fun fact: my username starts with `0x` because I love everything EVM & blockchain
 
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,js,ts,react,nodejs,python,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xGenJ&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xGenJ&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGenJ&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
-
----
-
-<p align="center">✨ Thanks for stopping by! ✨</p>
