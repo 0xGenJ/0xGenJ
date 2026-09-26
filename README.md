@@ -2,7 +2,7 @@
 <h3 align="center">Web3 Blockchain Explore | Crypto Enthusiast | 0xGenJ</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Exploring+Web3+%26+Blockchain;Building+cool+things+on-chain;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <a href="https://0xgenj.pages.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Exploring+Web3+%26+Blockchain;Building+cool+things+on-chain;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   Blockchain Enthusiast | Degen | not artist, not influencer.  follow to follow back😊<br/>
@@ -26,9 +26,9 @@
     <img src="assets/lens.svg" width="40" height="40" alt="Lens" />
   </a>
 </p>
-
+<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xGenJ&label=Profile%20Views&color=f72585&style=for-the-badge" alt="Visitor count" />
+  <a href="0xgenj.pages.dev"><img src="https://komarev.com/ghpvc/?username=0xGenJ&label=Profile%20Views&color=f72585&style=for-the-badge" alt="Visitor count" /></a>
 </p>
 
 ---
