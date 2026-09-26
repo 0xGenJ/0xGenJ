@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Exploring+Web3+%26+Blockchain;Building+cool+things+on-chain;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
-
 <p align="center">
+  Blockchain Enthusiast | Degen | not artist, not influencer.  follow to follow back☺<br/>
   <a href="https://twitter.com/0xgenj" target="_blank">
     <img src="assets/x.svg" width="40" height="40" alt="X (Twitter)" />
   </a>
@@ -13,8 +13,9 @@
   <a href="https://instagram.com/0xgenj" target="_blank">
     <img src="assets/instagram.svg" width="40" height="40" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.binance.com/en/square/profile/0x1310" target="_blank">
-    <img src="assets/binance.png" width="40" height="40" alt="BinanceSquare" />
+    <img src="assets/Binance.png" width="40" height="40" alt="BSquare" />
   </a>
   &nbsp;&nbsp;
   <a href="https://warpcast.com/genj" target="_blank">
