@@ -167,7 +167,8 @@
     object-fit: contain;
     flex-shrink: 0;
 }
-.a {
+
+a {
     color: var(--pink2);
     text-decoration: none;
 }
