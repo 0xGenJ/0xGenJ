@@ -155,7 +155,7 @@
 
 .crypto-donate {
     display: flex;
-    background-color: var(--pink2);
+    color: var(--pink2);
     align-items: center;
     gap: 8px;
     margin: 10px 0;
@@ -166,4 +166,8 @@
     height: 24px;
     object-fit: contain;
     flex-shrink: 0;
+}
+.a {
+    color: var(--pink2);
+    text-decoration: none;
 }
